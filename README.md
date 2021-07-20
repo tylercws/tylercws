@@ -9,8 +9,3 @@
 ### Github Stats
 
 [![Tylers's GitHub stats](https://github-readme-stats.vercel.app/api?username=tylercws)](https://github.com/anuraghazra/github-readme-stats)
-
-### Spotify Playing 🎧
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=11136473522&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=11136473522&redirect=true)
-
