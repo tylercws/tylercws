@@ -2,7 +2,7 @@
 
 ## I'm am Apprentice DevOps Engineer!!
 
-- 🌱 I’m currently learning Ruby, Ruby on Rails and DevOps 👨🏼‍💻
+- 🌱 I’m currently learning Ruby, Python, and DevOps 👨🏼‍💻
 - 🥅 2021 Goals: Learn Ruby, Become confident in DevOps Skills
 - ⚡ Fun fact: I love to draw ✏️ , have over 100+ Vinyls 🎶, and currently learning to play the piano 🎹
 
